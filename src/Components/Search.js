@@ -159,8 +159,8 @@ const Search = (props) => {
                   <img src="https://image.flaticon.com/icons/svg/88/88591.svg" width="60" height="60" alt=""/>
                   <h3>Visa and Emirates ID</h3>
                   <ul className ="clearfix">
-                      <li><strong>124</strong>Doctors</li>
-                      <li><strong>60</strong>Clinics</li>
+                      <li><strong>124</strong>Services</li>
+                      <li><strong>60</strong>Centres</li>
                   </ul>
               </a>
           </div>
@@ -170,30 +170,19 @@ const Search = (props) => {
                   <img src="https://static.thenounproject.com/png/197036-200.png" width="60" height="60" alt=""/>
                   <h3>Family and Community</h3>
                   <ul className ="clearfix">
-                      <li><strong>124</strong>Doctors</li>
-                      <li><strong>60</strong>Clinics</li>
+                      <li><strong>124</strong>Services</li>
+                      <li><strong>60</strong>Centres</li>
                   </ul>
               </a>
           </div>
           <div className ="col-lg-3 col-md-6">
-              <a href="#0" className ="box_cat_home">
+              <a href="http://localhost:3000" className ="box_cat_home">
                   <i className ="icon-info-4"></i>
                   <img src="https://cdn.onlinewebfonts.com/svg/img_163905.png" width="60" height="60" alt=""/>
                   <h3>Housing and Property</h3>
                   <ul className ="clearfix">
-                      <li><strong>124</strong>Doctors</li>
-                      <li><strong>60</strong>Clinics</li>
-                  </ul>
-              </a>
-          </div>
-          <div className ="col-lg-3 col-md-6">
-              <a href="#0" className ="box_cat_home">
-                  <i className ="icon-info-4"></i>
-                  <img src="https://static.thenounproject.com/png/1337907-200.png" width="60" height="60" alt=""/>
-                  <h3>Benefits for Emiratis </h3>
-                  <ul className ="clearfix">
-                      <li><strong>124</strong>Doctors</li>
-                      <li><strong>60</strong>Clinics</li>
+                      <li><strong>124</strong>Services</li>
+                      <li><strong>60</strong>Centres</li>
                   </ul>
               </a>
           </div>
@@ -203,12 +192,34 @@ const Search = (props) => {
                   <img src="https://static.thenounproject.com/png/2092788-200.png" width="60" height="60" alt=""/>
                   <h3>Starting and Managing Businesses</h3>
                   <ul className ="clearfix">
-                      <li><strong>124</strong>Doctors</li>
-                      <li><strong>60</strong>Clinics</li>
+                      <li><strong>124</strong>Services</li>
+                      <li><strong>60</strong>Centres</li>
+                  </ul>
+              </a>
+          </div>
+          <div className ="col-lg-3 col-md-6">
+              <a href="http://localhost:3000/flood" className ="box_cat_home">
+                  <i className ="icon-info-4"></i>
+                  <img src="https://image.flaticon.com/icons/svg/66/66150.svg" width="60" height="60" alt=""/>
+                  <h3> Flooding </h3>
+                  <ul className ="clearfix">
+                      <li><strong>124</strong>Services</li>
+                      <li><strong>60</strong>Centres</li>
                   </ul>
               </a>
           </div>
         
+          <div className ="col-lg-3 col-md-6">
+              <a href="/emergency" className ="box_cat_home">
+                  <i className ="icon-info-4"></i>
+                  <img src="https://image.flaticon.com/icons/svg/883/883396.svg" width="60" height="60" alt=""/>
+                  <h3>Emergencies</h3>
+                  <ul className ="clearfix">
+                      <li><strong>124</strong>Services</li>
+                      <li><strong>60</strong>Centres</li>
+                  </ul>
+              </a>
+          </div>
           <div className ="col-lg-3 col-md-6">
               <a href="#0" className ="box_cat_home">
                   <i className ="icon-info-4"></i>

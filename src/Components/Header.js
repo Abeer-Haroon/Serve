@@ -24,7 +24,7 @@ const Header = (props) => {
                           
                       </li>
                       <li className ="submenu">
-                          <a href="/register" className ="show-submenu">Register<i ></i></a>
+                          <a href="/registerr" className ="show-submenu">Register<i ></i></a>
                          
                       </li>
                      

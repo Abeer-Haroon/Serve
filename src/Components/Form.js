@@ -19,17 +19,7 @@ const Form = (props) => {
     
        
        
-  
-            
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-
-<br></br>
-<br></br>
-<br></br>
-<br></br>
+ 
 <br></br>
 <br></br>
 
