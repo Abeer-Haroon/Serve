@@ -4,6 +4,8 @@
 A Government Services App that provides ID/Visa Renewal, Emergency Services, Flooding, Housing and Property Services.
 
 
+### `npm install`
+
 ### `npm start`
 
 In the project directory, you can run:
