@@ -4,12 +4,19 @@
 A Government Services App that provides ID/Visa Renewal, Emergency Services, Flooding, Housing and Property Services.
 
 
-### `npm install`
+## Running locally
 
-### `npm start`
+1. Install the dependencies
 
-In the project directory, you can run:
+    ```
+    npm install
+    ```
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. Run the application
+
+    ```
+    npm start
+    ```
+
+1. View the application in a browser at `localhost:3000`
 
